@@ -1,7 +1,7 @@
 # Introduction 
 Reads all images in a folder and creates a standard size image and a thumbnail.
 
-![alt text](screenshot.png "Screenshot")
+![alt text](https://github.com/everyday-solution/ESolutions.ImageResizer/blob/master/Screenshot.png "Screenshot")
 
 # Getting started
 - Select a source folder with images
